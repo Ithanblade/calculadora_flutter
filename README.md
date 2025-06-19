@@ -1,16 +1,19 @@
 # calculadora_flutter
 
-A new Flutter project.
+Integrantes: Ithan Camacho, Carlos Pérez e Isaac Valenzuela
+APK:
 
-## Getting Started
+Ejecución Flutter
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/2f85f106-6059-43db-a2c0-4d510c6c814b)
 
-A few resources to get you started if this is your first Flutter project:
+Ejemplo Operaciones
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Suma
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/8a33d4e1-5983-472e-ac55-02a7a742306a)
+
+
+Raiz Cuadrada
+
+![image](https://github.com/user-attachments/assets/cbabc64e-4efc-410d-ac13-e6a974ffa53e)
