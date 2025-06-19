@@ -194,7 +194,7 @@ class _ScientificCalculatorState extends State<ScientificCalculator> {
                       ),
                     ),
                     onPressed: () => _onPressed(button),
-                    child: Text(button, style: const TextStyle(fontSize: 18)),
+                    child: Text(button, style: const TextStyle(fontSize: 26)),
                   ),
                 );
               },
